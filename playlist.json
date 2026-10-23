@@ -1,8 +1,9 @@
 {
-  "nombre": "Playlist de clase",
-  "genero": "indie",
+  "nombre": "The Black Parade",
+  "genero": "rock",
   "canciones": [
     "Canción 1",
-    "Canción 2"
+    "Canción 2",
+    "The Famous Last Words"
   ]
 }
